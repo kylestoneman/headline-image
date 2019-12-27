@@ -4,6 +4,12 @@ This is an extremely one-page website. Fully configured, its only external depen
 
 ## 🚀 Launch Checklist
 
+These are the steps you need to take (and the steps you should take) to set up this site.
+
+### 🎨 META / DESIGN
+
+- ✅  [Deploy repo to Netlify](https://app.netlify.com/start/deploy?repository=https://github.com/kylestoneman/headline-image)
+
 ### 🎨 META / DESIGN
 
 - ✅  Page title set in three places
