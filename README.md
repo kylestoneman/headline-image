@@ -6,7 +6,7 @@ This is an extremely one-page website. Fully configured, its only external depen
 
 These are the steps you need to take (and the steps you should take) to set up this site.
 
-### 🎨 META / DESIGN
+### 🛠️ DEPLOYMENT
 
 - ✅  [Deploy repo to Netlify](https://app.netlify.com/start/deploy?repository=https://github.com/kylestoneman/headline-image)
 
