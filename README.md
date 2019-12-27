@@ -6,11 +6,11 @@ This is an extremely one-page website. Fully configured, its only external depen
 
 These are the steps you need to take (and the steps you should take) to set up this site.
 
-### 🛠️ DEPLOYMENT
+### 🛠️ Deployment
 
 - ✅  [Deploy repo to Netlify](https://app.netlify.com/start/deploy?repository=https://github.com/kylestoneman/headline-image)
 
-### 🎨 META / DESIGN
+### 🎨 Meta / Design
 
 - ✅  Page title set in three places
 - ✅  Description set in three places
@@ -21,7 +21,7 @@ These are the steps you need to take (and the steps you should take) to set up t
 - ⭐  Nice to have: Set a favicon
 
 
-### ✏️ CONTENT 
+### ✏️ Content
 
 - ✅  Headline set (or removed)
 - ✅  Site's full address (https://example.com) added to the end of the Facebook share button link (or button removed).
@@ -29,6 +29,6 @@ These are the steps you need to take (and the steps you should take) to set up t
 - ⭐  Nice to have: URL Encode tweet text and add to the end of the Twitter link (remove the `data-tweet` attribute if you do).
 
 
-### 🌍 GLOBAL
+### 🌍 Global
 
 - ✅  Ctrl + F for `***` and check you've added the content or removed the element. If you've done all the other steps, you shouldn't find anything.
