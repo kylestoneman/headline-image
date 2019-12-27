@@ -8,7 +8,8 @@ These are the steps you need to take (and the steps you should take) to set up t
 
 ### 🛠️ Deployment
 
-- ✅  [Deploy repo to Netlify](https://app.netlify.com/start/deploy?repository=https://github.com/kylestoneman/headline-image)
+- ✅  [Netlify setup workflow completed](https://app.netlify.com/start/deploy?repository=https://github.com/kylestoneman/headline-image)
+- ✅  Domain name registered & pointed
 
 ### 🎨 Meta / Design
 
