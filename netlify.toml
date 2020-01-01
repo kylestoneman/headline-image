@@ -5,13 +5,3 @@
 # Directory to change to before starting a build.
 # This is where we will look for package.json/.nvmrc/etc.
 publish = "build/"
-
-[template.environment]
-  HEADLINE = ""
-  HEADLINE_COLOR = "black"
-  BACKGROUND_COLOR = "white"
-  BACKGROUND_URL = ""
-  HOVER_COLOR = "blue"
-  SHARE_TITLE = ""
-  SHARE_DESCRIPTION = ""
-  SHARE_IMAGE_URL = ""
